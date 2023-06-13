@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanat</h1>
+<h1 align="center">Hi, I'm Kanat</h1>
 <h3 align="center">A passionate fullstack developer, Saint-Petersburg</h3>
 
 - 🌱 I’m currently learning **fullstack-development**
